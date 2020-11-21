@@ -58,10 +58,6 @@
    73  ip a
    74  vim /etc/hosts
    75  https://systemx.example.com:443
-   76  cur; https://systemx.example.com:4
-   77  cur; https://systemx.example.com:443
-   78  curl https://systemx.example.com:443
-   79  curl https://systemx.example.com
    80  curl https://systemx.example.com:443
    81  cat /etc/hosts
    88  yum install iscsi-initiator-utils
